@@ -37,9 +37,9 @@ artifacts/
 .vs/
 ExportedObj/
 .consulo/
-*.csproj
+
 *.unityproj
-*.sln
+
 *.booproj
 *.svd
 *.pdb
