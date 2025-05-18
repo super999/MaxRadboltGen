@@ -1,5 +1,12 @@
 # MaxRadbolt - 粒子发生器增强 (Particle Emitter Enhancer)
 
+## 更新日志 / Change Log
+
+### v1.0.0 - 2025-05-18
+- 初始版本发布 / Initial release
+- 实现了粒子发生器增强功能 / Implemented particle emitter enhancement feature
+
+
 ## 中文说明
 
 ### 简介
